@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">StrokesApplication_0.2</string>
+    <string name="splash_title">Welcome to\n<font color="#00508B">Strokes</font></string>
+    <string name="splash_text">Browse the latest courses from THE BEST</string>
+    <string name="splash_signin">Already have an account? <font color="#00508B">Sign In</font></string>
+</resources>
